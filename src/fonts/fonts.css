@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'OpenSansCondensed-Light';
+  src: url('OpenSansCondensed-Light.eot');
+  src: url('OpenSansCondensed-Light.eot?#iefix') format('embedded-opentype'),
+       url('OpenSansCondensed-Light.svg#OpenSansCondensed-Light') format('svg'),
+       url('OpenSansCondensed-Light.ttf') format('truetype'),
+       url('OpenSansCondensed-Light.woff') format('woff'),
+       url('OpenSansCondensed-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
