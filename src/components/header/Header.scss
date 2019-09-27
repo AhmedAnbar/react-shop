@@ -4,6 +4,8 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 25px;
+  padding-top: -20px;
+  color: #5e6363;
 
   .logo-container {
     height: 100%;
@@ -20,6 +22,7 @@
 
     .option {
       padding: 10px 15px;
+      cursor: pointer;
     }
   }
 }
