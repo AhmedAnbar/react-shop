@@ -20,6 +20,10 @@
     border: 1px solid black;
   }
 
+  & i {
+    margin-right: 10px;
+  }
+
   &.google-sign-in {
     background-color: #42a5f4;
     color: white;
